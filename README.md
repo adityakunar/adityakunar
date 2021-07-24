@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @adityakunar. A M.Sc Data Scientist from TU Delft. 
-- 👀 I’m interested in A.I and deep learning methods.
-- 🌱 I’m currently working towards bettering synthetic tabular data generation methods via GANs 
-- 💞️ I’m looking to collaborate on the GANs for multi-modal data.
+- 👋 Hi, I’m @adityakunar. A M.Sc Data Scientist from TU Delft
+- 👀 I’m interested in A.I and deep learning methods. Ive worked on the following projects-
+      - [Deep Learning](https://github.com/adityakunar/DeepLearning)- A Reproduction of Dropout in Deep Learning using Pytorch. Read more about our work-> [Blog](https://medium.com/tu-delft-eemcs-student-projects/a-reproduction-attempt-of-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting-43f5c97bc314)
+      - [Object Detection with SSD and MobileNet](https://github.com/adityakunar/pytorch-ssd)- Integrated the MobileNet architecture into the Single Shot Detector (SSD) framework to achieve a fast, efficient deep learning-based method for object detection. Read more about our work here -> [Blog](https://adityakunar.medium.com/object-detection-with-ssd-and-mobilenet-aeedc5917ad0)
+      - [Supercomputing for Big Data](https://github.com/adityakunar/SBD-tudelft)- Analysed how to optimally extract insights from the GDELT dataset using Apache Spark and AWS, read more here->[Blog](https://adityakunar.medium.com/big-data-processing-using-apache-spark-1beed579aadd)     
+      - [Cyber Data Analytics](https://github.com/adityakunar/cda-2020)- Class Imbalance Learning and Anomoly detection for Static and Time-series data using python. 
+      - [Natural Language Processing](https://github.com/adityakunar/stance-detection)- Fake news detector built using python by implementing the paper ["Emergent: a novel data-set for stance classification"](https://aclanthology.org/N16-1138.pdf).
+- 🌱 I’m currently working towards bettering synthetic tabular data generation methods via GANs, read more here->[Blog](https://adityakunar.medium.com/ctab-gan-effective-table-data-synthesizing-39d086a1b7b0)
+- 💞️ I’m looking to collaborate on investigating and evaluating privacy and memorization risks associated with training differential private GANs
 - 📫 You may reach me at adityasince96@outlook.com
 
