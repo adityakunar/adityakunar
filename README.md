@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityakunar. A M.Sc Data Scientist from TU Delft
-- 👀 I’m interested in A.I and deep learning methods. Ive worked on the following projects-
+- 👀 I’m interested in A.I and deep learning methods. Ive worked on the following projects:
       - [Deep Learning](https://github.com/adityakunar/DeepLearning)- A Reproduction of Dropout in Deep Learning using Pytorch. Read more about our work-> [Blog](https://medium.com/tu-delft-eemcs-student-projects/a-reproduction-attempt-of-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting-43f5c97bc314)
       - [Object Detection with SSD and MobileNet](https://github.com/adityakunar/pytorch-ssd)- Integrated the MobileNet architecture into the Single Shot Detector (SSD) framework to achieve a fast, efficient deep learning-based method for object detection. Read more about our work here -> [Blog](https://adityakunar.medium.com/object-detection-with-ssd-and-mobilenet-aeedc5917ad0)
       - [Supercomputing for Big Data](https://github.com/adityakunar/SBD-tudelft)- Analysed how to optimally extract insights from the GDELT dataset using Apache Spark and AWS, read more here->[Blog](https://adityakunar.medium.com/big-data-processing-using-apache-spark-1beed579aadd)     
