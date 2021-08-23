@@ -8,7 +8,7 @@
       - [Cyber Data Analytics](https://github.com/adityakunar/Cyber-Data-Analytics): Executed effective class imbalance learning and anomoly detection for static and time-series data using python </br>
       - [Multivariate Data Analysis](https://github.com/adityakunar/Multivariate-Data-Analysis):  Worked on MAP estimation for classifying healthy and diseases samples in ECG data, as well as assignments related to Bayesian regression, generalised linear models, Gibbs sampling and finally Gaussian process classification </br>
       - [Data Visualization in Tableau](https://github.com/adityakunar/InfoVis-Final-Project): Created visually appealing, user‑friendly dashboards to let end‑users explore open data about crime and policing in the UK easily and effectively </br> 
-      - [Seminar Research Methodology for Data Science](https://github.com/adityakunar/semimar-data-sci): Worked on linear/logistic regression models and scientifically tested hypotheses in R; examined optimizing dimensionality reduction techniques like PCA for high dimensional datasets in MATLAB</br>
+      - [Research Methodology for Data Science](https://github.com/adityakunar/semimar-data-sci): Worked on linear/logistic regression models and scientifically tested hypotheses in R; examined optimizing dimensionality reduction techniques like PCA for high dimensional datasets in MATLAB</br>
       - [Natural Language Processing](https://github.com/adityakunar/stance-detection): Built a fake news detector using python by implementing the techniques of the paper, ["Emergent: a novel data-set for stance classification"](https://aclanthology.org/N16-1138.pdf) </br>
 
 - 📫 You may reach me at adityasince96@outlook.com
